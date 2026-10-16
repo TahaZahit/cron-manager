@@ -15,7 +15,7 @@ Install it from the [Raycast Store](https://www.raycast.com/tahazahit/cron-manag
 - **One-Click Run**: Manually trigger any job immediately to test your commands.
 - **Execution Logs**: View detailed logs of every execution, including success and error messages.
 - **Visual Status**: Quickly see which jobs are active, paused, or failing.
-- **Search**: Filter jobs by name or command instanty.
+- **Search**: Filter jobs by name or command instantly.
 
 ## Usage
 
