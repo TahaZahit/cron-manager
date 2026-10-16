@@ -4,6 +4,10 @@ Manage your local cron jobs directly from Raycast. Create, edit, run, and monito
 
 ![Cron Manager Screenshot](metadata/1-cron-manager.png)
 
+## Install
+
+Install it from the [Raycast Store](https://www.raycast.com/tahazahit/cron-manager).
+
 ## Features
 
 - **Create & Manage Jobs**: Easily create cron jobs with a user-friendly form.
@@ -27,4 +31,4 @@ Created by **tahazahit**.
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
